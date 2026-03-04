@@ -25,6 +25,7 @@ Every report follows the same structure:
 
 | Machine | OS | Difficulty |
 |---|---|---|
+| Trick | Linux | Easy |
 | VulnCicada | Windows | Medium |
 
 ---
