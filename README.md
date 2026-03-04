@@ -26,6 +26,7 @@ Every report follows the same structure:
 | Machine | OS | Difficulty |
 |---|---|---|
 | Trick | Linux | Easy |
+| TombWatcher | Windows | Medium |
 | VulnCicada | Windows | Medium |
 
 ---
