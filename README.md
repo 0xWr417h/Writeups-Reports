@@ -24,7 +24,7 @@ Every report follows the same structure:
 ## Reports
 
 | Machine | OS | Difficulty |
-|---|---|---|---|
+|---|---|---|
 | VulnCicada | Windows | Medium |
 
 ---
